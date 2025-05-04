@@ -2,6 +2,8 @@
 
 Budget Buddy is a modern web application designed to help students track their expenses, forecast spending patterns, and manage their monthly budget effectively. With an intuitive interface and powerful forecasting capabilities, it helps ensure you never run out of money before month-end.
 
+Screenshot :- https://ibb.co/8DBXytVM
+
 
 ## Features
 
